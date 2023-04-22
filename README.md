@@ -10,10 +10,10 @@
 https://youtu.be/t7Q6MRb0QgQ
 ---
 
-### The overall flow of the app is as follows. 
+## The overall flow of the app is as follows. 
 The user becomes Minsoo and uses the elements in the app to deduce Jessica's birthday and send birthday messages as Jessica wishes.
 
-### Planning intentions
+## Planning intentions
 I was talking about baseball with my team members who studied together at Apple Developer Academy @ POSTECH in the past, and someone said that the WBC final would be held in the U.S. And I joked, "Why does America always play baseball at night?" It's the same joke as Why does England always play soccer at night? to South Korean, but I suddenly had the following question. 
 > Huh? Why can it be a joke that the United States plays baseball at night? 
 
