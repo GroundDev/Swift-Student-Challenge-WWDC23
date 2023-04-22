@@ -39,6 +39,10 @@ It is implemented based on the layout of the screen in Landscape mode. In other 
 - Xcode 14.3
 - iPadOS 16.4
 
+## Assets
+- Image of the universe : https://unsplash.com/photos/uhjiu8FjnsQ
+- Image of the Earth : https://www.nesdis.noaa.gov/news/noaa-shares-first-new-view-of-the-north-pole-earth-day
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
