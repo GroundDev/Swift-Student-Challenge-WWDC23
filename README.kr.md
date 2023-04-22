@@ -2,16 +2,18 @@
 
 ![IMG_0010](https://user-images.githubusercontent.com/103012763/233689784-0b632461-850e-43bd-ae02-e957ef64c597.PNG)
 
+If you want to read this README.md in English, click this link. [English Version](https://github.com/GroundDev/Swift-Student-Challenge-WWDC23/blob/main/README.md)
+
 ### TextMeHappyBirthdayAtMidNight는 시차의 개념을 체험을 통해 직관적으로 받아들일 수 있도록 도움을 주는 앱입니다.
 
 > 데모 영상을 확인하고자 하시는 분은 다음의 링크를 통해 확인하실 수 있습니다.   
 https://youtu.be/t7Q6MRb0QgQ
 ---
 
-### 앱의 전체적인 Flow는 다음과 같습니다. 
+## 앱의 전체적인 Flow는 다음과 같습니다. 
 사용자는 Minsoo가 되어 앱 안의 요소들을 이용하여 Jessica의 생일을 추리하고 Jessica가 원하는 대로 생일 축하 메시지를 전송합니다.   
 
-### 기획의도
+## 기획의도
 과거 애플 디벨로퍼 아카데미에서 함께 활동했던 팀원들과 야구얘기를 하고 있었는데, WBC 결승전이 미국에서 열린다는 얘기가 나왔습니다. 이에 대해 저는 농담으로 "미국은 왜 맨날 밤에 야구하냐!" 라고 드립을 쳤죠. 영국은 왜 맨날 밤에 축구함? 같은 드립인데, 문득 다음과 같은 의문이 들었습니다. 
 > 어라..? 미국이 밤에 야구를 한다는게 왜 농담거리가 될 수 있는 것일까?    
 
@@ -36,6 +38,10 @@ https://youtu.be/t7Q6MRb0QgQ
 ### 개발 환경
 - Xcode 14.3
 - iPadOS 16.4
+
+## Assets
+- 우주 사진 : https://unsplash.com/photos/uhjiu8FjnsQ
+- 지구 사진 : https://www.nesdis.noaa.gov/news/noaa-shares-first-new-view-of-the-north-pole-earth-day
 
 ## Contributing
 
