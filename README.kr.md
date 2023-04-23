@@ -43,6 +43,9 @@ https://youtu.be/t7Q6MRb0QgQ
 - 우주 사진 : https://unsplash.com/photos/uhjiu8FjnsQ
 - 지구 사진 : https://www.nesdis.noaa.gov/news/noaa-shares-first-new-view-of-the-north-pole-earth-day
 
+## 셀프 코드 리뷰 (in Korean)
+현재 제가 작성한 코드들에 대해 셀프 코드 리뷰를 업데이트하고 있습니다. 코드를 살펴보던 중 이해하기 어려운 부분이 있다면 참고해주세요. 한국어로 우선 작업을 하고 있으며 마무리 된다면 영어 버전도 업데이트 하도록 하겠습니다. [Self Code Review](https://github.com/GroundDev/Swift-Student-Challenge-WWDC23/commit/c68df9101a3bd062b189266e31c9c73d4bbb88c8)
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
