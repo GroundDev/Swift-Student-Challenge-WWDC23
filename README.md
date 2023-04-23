@@ -43,6 +43,9 @@ It is implemented based on the layout of the screen in Landscape mode. In other 
 - Image of the universe : https://unsplash.com/photos/uhjiu8FjnsQ
 - Image of the Earth : https://www.nesdis.noaa.gov/news/noaa-shares-first-new-view-of-the-north-pole-earth-day
 
+## Explanation of Code (in Korean)
+I've been updating explanation of code. Updates of Explanation are currently developed in Korean, but I will add it in English ASAP. [Explanation of Code](https://github.com/GroundDev/Swift-Student-Challenge-WWDC23/commit/c68df9101a3bd062b189266e31c9c73d4bbb88c8)
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
